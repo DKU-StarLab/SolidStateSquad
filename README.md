@@ -26,7 +26,7 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 2. Flash 101 and Flash Managment, Western Digital, [Link](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/white-paper/white-paper-sandisk-flash101-management.pdf)
 3. 
 
-## Paper List
+## List of Papers
 1. Rosenblum, Mendel, and John K. Ousterhout. "The design and implementation of a log-structured file system." ACM Transactions on Computer Systems (TOCS) 10.1 (1992): 26-52. [Link](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
 2. Park, Chanik, et al. "A reconfigurable FTL (flash translation layer) architecture for NAND flash-based applications." ACM Transactions on Embedded Computing Systems (TECS) 7.4 (2008): 1-23. [Link](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F19/handouts/papers/a38-park.pdf)
 3. Gupta, Aayush, Youngjae Kim, and Bhuvan Urgaonkar. "DFTL: a flash translation layer employing demand-based selective caching of page-level address mappings." Acm Sigplan Notices 44.3 (2009): 229-240. [Link](https://dl.acm.org/doi/10.1145/1508284.1508271)
