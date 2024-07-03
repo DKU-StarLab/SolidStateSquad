@@ -2,6 +2,10 @@
 This is a study group studying SSD, FTL, and FEMU in 2024.
 
 ## Goal
+- **Study for Flash Translation layer to Maximize the performance of storage system.**<br>
+- **Understanding mapping tables, wear leveling, and garbage collection.**<br>
+- **FTL Code Analysis.**
+
 
 ## 논문 발표
 |          | Date       |  논문    |발표자     |Link     |
