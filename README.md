@@ -51,6 +51,8 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 8. Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives." Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2. 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3575693.3575744)
 9. Wang, Shengzhe, et al. "LearnedFTL: A Learning-Based Page-Level FTL for Reducing Double Reads in Flash-Based SSDs." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476463)
 10. Niu, Fuping, et al. "FlashGNN: An In-SSD Accelerator for GNN Training." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476462)
+11. Kim, Shine, et al. "Behemoth: a flash-centric training accelerator for extreme-scale DNNs." 19th USENIX Conference on File and Storage Technologies (FAST 21). 2021. [Link](https://www.usenix.org/conference/fast21/presentation/kim)
+12. Wong, Daniel Lin-Kit, et al. "Baleen: ML Admission & Prefetching for Flash Caches." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [Link](https://www.usenix.org/conference/fast24/presentation/wong)
 
 ## Simulation
 1. **FEMU**, Li, Huaicheng, et al. "The CASE of FEMU: Cheap, accurate, scalable and extensible flash emulator." 16th USENIX Conference on File and Storage Technologies (FAST 18). 2018. [Paper Link](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)   Git[:octocat:](https://github.com/MoatLab/FEMU)
