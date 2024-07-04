@@ -20,9 +20,9 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 | week05   | 2024-07-31 | Jun, Yuhun, et al. "We Ain't Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [Link](https://www.usenix.org/conference/fast24/presentation/jun) | 김주현,<br>이용민 |
 | week05   | 2024-07-31 | Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives." Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2. 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3575693.3575744) | 최연규 |
 | week06   | 2024-08-07 | Wang, Shengzhe, et al. "LearnedFTL: A Learning-Based Page-Level FTL for Reducing Double Reads in Flash-Based SSDs." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476463) | 김민성,<br>위다연 |
-| week06   | 2024-08-07 | Niu, Fuping, et al. "FlashGNN: An In-SSD Accelerator for GNN Training." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476462) | -        |
-| week07   | 2024-08-14 | Kim, Shine, et al. "Behemoth: a flash-centric training accelerator for extreme-scale DNNs." 19th USENIX Conference on File and Storage Technologies (FAST 21). 2021. [Link]([https://ieeexplore.ieee.org/abstract/document/10476462](https://www.usenix.org/conference/fast21/presentation/kim)) | -     |
-| week08   | 2024-08-21 | -        | -        |
+| week06   | 2024-08-07 | Niu, Fuping, et al. "FlashGNN: An In-SSD Accelerator for GNN Training." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476462) | 신수환 |
+| week07   | 2024-08-14 | Kim, Shine, et al. "Behemoth: a flash-centric training accelerator for extreme-scale DNNs." 19th USENIX Conference on File and Storage Technologies (FAST 21). 2021. [Link](https://www.usenix.org/conference/fast21/presentation/kim) | 김나경 |
+| week08   | 2024-08-21 | Wong, Daniel Lin-Kit, et al. "Baleen: ML Admission & Prefetching for Flash Caches." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [Link](https://www.usenix.org/conference/fast24/presentation/wong)  | 최연규 |
 | week08   | 2024-08-28 | Final Presentation | ALL |
 ## FTL 분석 및 개발
 |          | Team       | Link |
@@ -30,15 +30,6 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 |1         |김민성, 위다연, 김나경| - |
 |2         |이용민, 김주현, 최연규, 김보승, 신수환| - |
 |3         |구선주, 박수지, 오여진, 쥬용지에| - |
-
-
-
-
-
-
-
-
-
 
 ## 참여자
 - 학부과정 : 박수지, 김민성, 이용민, 구선주, 위다연, 김보승, 오여진
@@ -48,7 +39,6 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 ## For Beginners
 1. 개발자를 위한 SSD (Coding for SSD), Kakao Tech 번역, [Link](https://tech.kakao.com/posts/326)
 2. Flash 101 and Flash Managment, Western Digital, [Link](https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/white-paper/white-paper-sandisk-flash101-management.pdf)
-3. 
 
 ## List of Papers
 1. Rosenblum, Mendel, and John K. Ousterhout. "The design and implementation of a log-structured file system." ACM Transactions on Computer Systems (TOCS) 10.1 (1992): 26-52. [Link](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
