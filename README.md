@@ -21,9 +21,9 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 | week05   | 2024-07-31 | Sun, Jinghan, et al. "Leaftl: A learning-based flash translation layer for solid-state drives." Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2. 2023. [Link](https://dl.acm.org/doi/abs/10.1145/3575693.3575744) | 최연규 |
 | week06   | 2024-08-07 | Wang, Shengzhe, et al. "LearnedFTL: A Learning-Based Page-Level FTL for Reducing Double Reads in Flash-Based SSDs." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476463) | 김민성,<br>위다연 |
 | week06   | 2024-08-07 | Niu, Fuping, et al. "FlashGNN: An In-SSD Accelerator for GNN Training." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476462) | -        |
-| week07   | 2024-08-14 | -        | -        |
-| week07   | 2024-08-14 | -        | -        |
-
+| week07   | 2024-08-14 | Kim, Shine, et al. "Behemoth: a flash-centric training accelerator for extreme-scale DNNs." 19th USENIX Conference on File and Storage Technologies (FAST 21). 2021. [Link]([https://ieeexplore.ieee.org/abstract/document/10476462](https://www.usenix.org/conference/fast21/presentation/kim)) | -     |
+| week08   | 2024-08-21 | -        | -        |
+| week08   | 2024-08-28 | Final Presentation | ALL |
 ## FTL 분석 및 개발
 |          | Team       | Link |
 |----------|------------| -----|
