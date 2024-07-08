@@ -42,7 +42,7 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 
 ## List of Papers
 1. Rosenblum, Mendel, and John K. Ousterhout. "The design and implementation of a log-structured file system." ACM Transactions on Computer Systems (TOCS) 10.1 (1992): 26-52. [Link](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
-2. Park, Chanik, et al. "A reconfigurable FTL (flash translation layer) architecture for NAND flash-based applications." ACM Transactions on Embedded Computing Systems (TECS) 7.4 (2008): 1-23. [Link](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F19/handouts/papers/a38-park.pdf)
+2. Park, Chanik, et al. "A reconfigurable FTL (flash translation layer) architecture for NAND flash-based applications." ACM Transactions on Embedded Computing Systems (TECS) 7.4 (2008): 1-23. [Link](http://csl.skku.edu/papers/tecs08.pdf)
 3. Gupta, Aayush, Youngjae Kim, and Bhuvan Urgaonkar. "DFTL: a flash translation layer employing demand-based selective caching of page-level address mappings." Acm Sigplan Notices 44.3 (2009): 229-240. [Link](https://dl.acm.org/doi/10.1145/1508284.1508271)
 4. Agrawal, Nitin, et al. "Design tradeoffs for SSD performance." 2008 USENIX Annual Technical Conference (USENIX ATC 08). 2008. [Link](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal.pdf)
 5. Kim, Bryan S., Jongmoo Choi, and Sang Lyul Min. "Design tradeoffs for SSD reliability." 17th USENIX Conference on File and Storage Technologies (FAST 19). 2019. [Link](https://www.usenix.org/conference/fast19/presentation/kim-bryan)
