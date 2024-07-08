@@ -55,6 +55,6 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 12. Wong, Daniel Lin-Kit, et al. "Baleen: ML Admission & Prefetching for Flash Caches." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [Link](https://www.usenix.org/conference/fast24/presentation/wong)
 
 ## Simulation
-1. **FEMU**, Li, Huaicheng, et al. "The CASE of FEMU: Cheap, accurate, scalable and extensible flash emulator." 16th USENIX Conference on File and Storage Technologies (FAST 18). 2018. [Paper Link](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)   Git[:octocat:](https://github.com/MoatLab/FEMU)
+1. **FEMU**, Li, Huaicheng, et al. "The CASE of FEMU: Cheap, accurate, scalable and extensible flash emulator." 16th USENIX Conference on File and Storage Technologies (FAST 18). 2018. [Paper Link](https://www.usenix.org/system/files/conference/fast18/fast18-li.pdf)   Git[:octocat:](https://github.com/MoatLab/FEMU)
 2. **NVMeVirt**, Kim, Sang-Hoon, et al. "{NVMeVirt}: A Versatile Software-defined Virtual {NVMe} Device." 21st USENIX Conference on File and Storage Technologies (FAST 23). 2023. [Paper Link](https://www.usenix.org/conference/fast23/presentation/kim-sang-hoon)    Git[:octocat:](https://github.com/snu-csl/nvmevirt)
 3. **MQSim**, Tavakkol, Arash, et al. "{MQSim}: A framework for enabling realistic studies of modern Multi-Queue SSD devices." 16th USENIX Conference on File and Storage Technologies (FAST 18). 2018. [Paper Link](https://www.usenix.org/conference/fast18/presentation/tavakkol)   Git[:octocat:](https://github.com/CMU-SAFARI/MQSim)
