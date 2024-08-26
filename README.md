@@ -23,7 +23,7 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 | week07   | 2024-08-14 | Jun, Yuhun, et al. "We Ain't Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [Link](https://www.usenix.org/conference/fast24/presentation/jun) | 김주현,<br>이용민 | [File_Fragmentation](./presentations/Week7/W7_Fragmentation_김주현_이용민.pdf)   |
 | week07   | 2024-08-14 | Niu, Fuping, et al. "FlashGNN: An In-SSD Accelerator for GNN Training." 2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10476462) | 신수환 | [FlashGNN](./presentations/Week7/W7_SSD_FlashGNN_신수환.pdf) |
 | week08   | 2024-08-21 | Kim, Shine, et al. "Behemoth: a flash-centric training accelerator for extreme-scale DNNs." 19th USENIX Conference on File and Storage Technologies (FAST 21). 2021. [Link](https://www.usenix.org/conference/fast21/presentation/kim) | 김나경 | [Behemoth](./presentations/Week8/W8_Behemoth.pdf) |
-| week09   | 2024-08-28 | Wong, Daniel Lin-Kit, et al. "Baleen: ML Admission & Pr진 |
+| week09   | 2024-08-28 | Wong, Daniel Lin-Kit, et al. "Baleen:{ML} Admission & Prefetching for Flash Caches." 22nd USENIX Conference on File and Storage Technologies (FAST 24). 2024. [Link](https://www.usenix.org/conference/fast24/presentation/wong) | 김보승,오여진 |
 | week10   | 2024-09-04 | Final Presentation | ALL |
 
 ## FTL 분석 및 개발
