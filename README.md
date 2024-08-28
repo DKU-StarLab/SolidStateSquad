@@ -29,11 +29,11 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 ## FTL 분석 및 개발
 |          | Team       | Link |
 |----------|------------| -----|
-|1         | 김나경, 오여진 | - |
-|2         | 김보승, 김주현 | - |
+|1         | 김나경, 오여진 | [실험발표](presentations/Week8/experiment/W8_김나경_오여진_실험발표.pdf) |
+|2         | 김보승, 김주현 | [실험발표](presentations/Week8/experiment/W8_김주현_김보승_실험발표.pdf) |
 |2         | 신수환 | - |
-|3         | 구선주 | - |
-|4         | 위다연 | - |
+|3         | 구선주 | [Improving_DFTL](presentations/Week9/W9_Improving_DFTL(LRU_to_2Q).pdf) |
+|4         | 위다연 | [Indexing_DFTL](presentations/Week9/W9_Indexing_DFTL.pdf) |
 |5         | 이용민 | [LYM_exp_topic](presentations/Week9/W9_LYM_exp_topic.pdf) |
 |6         | 김민성 | [LearnedFTL_CMT_Model_ratio_tradeoff](presentations/Week9/W9_LearnedFTL_CMT_Model_ratio_tradeoff.pdf) |
 
