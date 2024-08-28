@@ -34,7 +34,7 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 |2         | 신수환 | - |
 |3         | 구선주 | - |
 |4         | 위다연 | - |
-|5         | 이용민 | - |
+|5         | 이용민 | [LYM_exp_topic](presentations/Week9/W9_LYM_exp_topic.pdf) |
 |6         | 김민성 | [LearnedFTL_CMT_Model_ratio_tradeoff](presentations/Week9/W9_LearnedFTL_CMT_Model_ratio_tradeoff.pdf) |
 
 
