@@ -29,9 +29,17 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 ## FTL 분석 및 개발
 |          | Team       | Link |
 |----------|------------| -----|
-|1         |김민성, 위다연, 김나경| - |
-|2         |이용민, 김주현, 최연규, 김보승, 신수환| - |
-|3         |구선주, 박수지, 오여진, 쥬용지에| - |
+|1         | 김나경, 오여진 | - |
+|2         | 김보승, 김주현 | - |
+|2         | 신수환 | - |
+|3         | 구선주 | - |
+|4         | 위다연 | - |
+|5         | 이용민 | - |
+|6         | 김민성 | [LearnedFTL_CMT_Model_ratio_tradeoff](presentations/Week9/W9_LearnedFTL_CMT_Model_ratio_tradeoff.pdf) |
+
+
+
+
 
 ## 참여자
 - 학부과정 : 박수지, 김민성, 이용민, 구선주, 위다연, 김보승, 오여진
