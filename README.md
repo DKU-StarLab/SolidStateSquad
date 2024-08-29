@@ -9,7 +9,7 @@ This is a study group studying SSD, FTL, and FEMU in 2024.
 
 ## 논문 발표
 |          | Date       |  논문    |발표자     |Link     |
-|----------|------------|----------|--------|---------|
+|------|-------------|----------|-----------|---------|
 | week01   | 2024-07-03 | OT       | 최건희 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | week02   | 2024-07-10 | Rosenblum, Mendel, and John K. Ousterhout. "The design and implementation of a log-structured file system." ACM Transactions on Computer Systems (TOCS) 10.1 (1992): 26-52. [Link](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf) | 김나경 | [LFS](./presentations/Week2/W2_LFS_김나경.pdf) |
 | week02   | 2024-07-10 | Park, Chanik, et al. "A reconfigurable FTL (flash translation layer) architecture for NAND flash-based applications." ACM Transactions on Embedded Computing Systems (TECS) 7.4 (2008): 1-23. [Link](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F19/handouts/papers/a38-park.pdf) | 구선주,<br>박수지 |[RFTL](./presentations/Week2/W2_RFTL_구선주_박수지.pdf)|
